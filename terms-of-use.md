@@ -5,9 +5,9 @@ title: 利用規約 / Terms of Use
 
 # 利用規約 / Terms of Use
 
-**対象アプリ:** PhotoField Simulator（以下「本アプリ」）
-**提供者:** 末次厚裕
-**お問い合わせ:** photofieldsim.support@gmail.com
+**対象アプリ:** PhotoField Simulator（以下「本アプリ」）<br>
+**提供者:** 末次厚裕<br>
+**お問い合わせ:** photofieldsim.support@gmail.com<br>
 **最終更新日:** 2026-07-01
 
 ---
