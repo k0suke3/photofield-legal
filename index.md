@@ -1,5 +1,6 @@
 ---
-title: PhotoField Simulator
+layout: default
+title: PhotoField Simulator — 規約・ポリシー
 ---
 
 # PhotoField Simulator — 法的情報

@@ -1,3 +1,8 @@
+---
+layout: default
+title: 利用規約 / Terms of Use
+---
+
 # 利用規約 / Terms of Use
 
 **対象アプリ:** PhotoField Simulator（以下「本アプリ」）

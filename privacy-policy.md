@@ -1,3 +1,8 @@
+---
+layout: default
+title: プライバシーポリシー / Privacy Policy
+---
+
 # プライバシーポリシー / Privacy Policy
 
 **対象アプリ:** PhotoField Simulator（以下「本アプリ」）
